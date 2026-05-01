@@ -17,12 +17,12 @@ Este repositório contém os entregáveis do nosso Design Sprint:
 
 ---
 
-## ✨ Principais Funcionalidades
+## Principais Funcionalidades
 
-*   📱 **Integração "Minha UFAL":** Fluxo nativo para solicitar a tag RFID e recarregar saldo via PIX de forma expressa.
-*   ⚡ **Validação Contactless (Totem):** Pagamento processado em milissegundos com feedback visual e sonoro imediato.
-*   📊 **Inteligência de Fila (Data Science):** Geração de estimativas de espera em tempo real baseadas na vazão de pagamentos do totem.
-*   📈 **Gestão Baseada em Dados:** Dashboards de uso diário e semanal para auxiliar a administração do RU no preparo de refeições.
+*    **Integração "Minha UFAL":** Fluxo nativo para solicitar a tag RFID e recarregar saldo via PIX de forma expressa.
+*    **Validação Contactless (Totem):** Pagamento processado em milissegundos com feedback visual e sonoro imediato.
+*    **Inteligência de Fila (Data Science):** Geração de estimativas de espera em tempo real baseadas na vazão de pagamentos do totem.
+*    **Gestão Baseada em Dados:** Dashboards de uso diário e semanal para auxiliar a administração do RU no preparo de refeições.
 
 ---
 
